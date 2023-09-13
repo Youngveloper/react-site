@@ -171,3 +171,14 @@ export const siteText = [
         ]
     }
 ];
+
+export const contactText = [
+    {
+        link: "https://open.kakao.com/o/gM7YLzwf",
+        title: "kakao: aa"
+    },
+    {
+        link: "mailto:rendezvous48@naver.com",
+        title: "mail: rendezvous48@naver.com",
+    },
+];
